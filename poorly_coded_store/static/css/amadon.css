@@ -1,0 +1,16 @@
+/* not using reset because I don't want to mess with bootstrap? */
+body {
+    background-image: linear-gradient(grey,lightgrey,grey);
+}
+#wrapper {
+    margin: 30px auto;
+    border: 5px ridge teal;
+    background-color:aquamarine;
+    width: 90%;
+    padding:30px 50px;
+    font-size:x-large;
+    min-height: 800px;
+}
+h1 {
+    color:teal;
+}
